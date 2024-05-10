@@ -10,7 +10,7 @@
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
-    "dandi-api": "^1.1.0",
+    "dandi-api": "github:aiinne/aine-api",
     "fetch": "^1.1.0",
     "file-type": "^17.1.1",
     "form-data": "^4.0.0",
