@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "axios": "^1.6.8",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
     "dandi-api": "github:aiinne/aine-api",
@@ -18,9 +18,9 @@
     "insta-fetcher": "^1.3.17",
     "jsdom": "^19.0.0",
     "jsdon": "^0.1.15",
-    "node-fetch": "^3.3.1",
+    "node-fetch": "^2.6.1",
     "publish": "^0.6.0",
-    "qs": "^6.11.0",
+    "qs": "^6.10.3",
     "request": "^2.88.2",
     "url": "^0.11.0",
     "@bochilteam/scraper": "^4.2.4",
